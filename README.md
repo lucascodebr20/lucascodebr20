@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Lucas 👋</h1>
 
-<!--
-**lucascodebr20/lucascodebr20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor Fullstack apaixonado por criar soluções eficientes com código limpo!
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+
+- 💻 Estagiando na área fiscal, desenvolvendo soluções backend e frontend
+- 🔭 Trabalhando com **Kotlin, Spring Boot, React, Python e SQL**
+- 📚 Estudando padrões de projeto e aplicando microsserviços na prática
+- 💡 Acredito que nem tudo precisa ser um microsserviço — simplicidade também é arquitetura 😉
+
+---
+
+### 🛠️ Tecnologias que uso
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lucascodebr20&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascodebr20&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+</p>
+
+---
+
+### 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
