@@ -28,7 +28,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p align="start">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lucascodebr20&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascodebr20&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </p>
@@ -37,11 +37,10 @@
 
 ### 📫 Como me encontrar
 
-<div align="center">
+
   <a href="https://www.linkedin.com/in/lucascamposcardosodemoraes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu@email.com">
+  <a href="mailto:lucascode@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
